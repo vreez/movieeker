@@ -104,11 +104,11 @@ TEAM MOVIEEKER
 
 - 커뮤니티 (게시판 및 게시글 상세 페이지)
 
-  ![](README.assets/게시글 상세.png)
+  ![](README.assets/게시글상세.png)
 
 - 게시글 생성 & 수정 페이지 (게시글 생성/수정/삭제 + 댓글 기능)
 
-  ![](README.assets/게시글 생성 수정.png)
+  ![](README.assets/게시글생성수정.png)
 
 - 반응형 페이지
 
