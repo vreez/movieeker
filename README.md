@@ -84,6 +84,40 @@ TEAM MOVIEEKER
 - 영화 자체 평점 및 인기도 기반의 추천 서비스 구현
 - 영화 관련 글을 남길 수 있는 게시판 기능 구현
 
+### - 구현 화면
+
+- 로그인/회원가입 (로그인과 회원가입 + 로그아웃 기능)
+
+![](README.assets/로그인,회원가입.png)
+
+- 메인페이지 (타이틀/영화리스트/명언/이미지)
+
+![](README.assets/메인.png)
+
+- 영화리스트 (주제별 영화리스트/상세페이지)
+
+![](README.assets/리스트.png)
+
+- 추천페이지 (랜덤추천 / 영화평점 및 인기도 기반 추천)
+
+  ![](README.assets/추천.png)
+
+- 커뮤니티 (게시판 및 게시글 상세 페이지)
+
+  ![](README.assets/게시글 상세.png)
+
+- 게시글 생성 & 수정 페이지 (게시글 생성/수정/삭제 + 댓글 기능)
+
+  ![](README.assets/게시글 생성 수정.png)
+
+- 반응형 페이지
+
+![](README.assets/반응형.png)
+
+- 기타 (navigation bar, page footer, 명언 및 이미지)
+
+![](README.assets/기타.png)
+
 ## 6. 데이터베이스 모델링(ERD)
 
 ### 1. Back-end(Django)
